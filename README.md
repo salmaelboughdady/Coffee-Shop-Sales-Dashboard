@@ -1,4 +1,4 @@
-This project features an interactive ales ashboard for a coffee shop that helps in identifying peak service hours, high-performing product categories, and revenue growth patterns during the first half of 2023 (Jan-June).
+This project features an interactive sales dashboard for a coffee shop that helps in identifying peak service hours, high-performing product categories, and revenue growth patterns during the first half of 2023 (Jan-June).
 
 ## Data Transformation
 To enable deep-dive analysis I engineered **six calculated columns** within the data that allowed for more effective and clearer analysis:
